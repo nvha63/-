@@ -26,7 +26,7 @@
      <h1 style="color: yellow">tặng khóa học phát âm của langmaster </h1> 
      <form action="https://formspree.io/trungnghiaabcd1234@email.com" method="POST">
 
-  <input type="email" name="your email">
+  <input type="email" placeholder="your name" name="_replyto">
   <input type="submit" value="Send">
 </form>
      <h2 style="color: pink">15-11 chốt gửi.đừng có xin ảnh nền, không cho đâu</h2>  
