@@ -29,6 +29,10 @@
      <h2 style="color: pink">15-11 chốt gửi.đừng có xin ảnh nền, không cho đâu</h2>  
      <h2>mod:NGHĨA CN10PTIT </h2>
 
-
+<form action="https://formspree.io/your@email.com" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
     </body>
 </html>
